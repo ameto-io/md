@@ -1,0 +1,1452 @@
+{
+    "courses": [
+        {
+            "id": 1,
+            "title": "Intermediate HTML CSS",
+            "format": "md",
+            "cover": "intermediate-html-css.png",
+            "slug": "/intermediate-html-css",
+            "lessons": [
+                {
+                    "id": 2,
+                    "title": "Intermediate HTML Concepts",
+                    "slug": "/intermediate-html-concepts",
+                    "sections": [
+                        {
+                            "id": 3,
+                            "title": "Emmet",
+                            "file": "/intermediate-html-concepts/emmet.md",
+                            "slug": "/emmet"
+                        },
+                        {
+                            "id": 4,
+                            "title": "Introduction",
+                            "file": "/intermediate-html-concepts/introduction.md",
+                            "slug": "/introduction"
+                        },
+                        {
+                            "id": 5,
+                            "title": "Svgs",
+                            "file": "/intermediate-html-concepts/svgs.md",
+                            "slug": "/svgs"
+                        },
+                        {
+                            "id": 6,
+                            "title": "Tables",
+                            "file": "/intermediate-html-concepts/tables.md",
+                            "slug": "/tables"
+                        }
+                    ]
+                },
+                {
+                    "id": 7,
+                    "title": "Forms",
+                    "slug": "/forms",
+                    "sections": [
+                        {
+                            "id": 8,
+                            "title": "Form Basics",
+                            "file": "/forms/form-basics.md",
+                            "slug": "/form-basics"
+                        },
+                        {
+                            "id": 9,
+                            "title": "Form Validations",
+                            "file": "/forms/form-validations.md",
+                            "slug": "/form-validations"
+                        },
+                        {
+                            "id": 10,
+                            "title": "Project Sign Up Form",
+                            "file": "/forms/project-sign-up-form.md",
+                            "slug": "/project-sign-up-form"
+                        }
+                    ]
+                },
+                {
+                    "id": 11,
+                    "title": "Grid",
+                    "slug": "/grid",
+                    "sections": [
+                        {
+                            "id": 12,
+                            "title": "Advanced Grid Properties",
+                            "file": "/grid/advanced-grid-properties.md",
+                            "slug": "/advanced-grid-properties"
+                        },
+                        {
+                            "id": 13,
+                            "title": "Creating A Grid",
+                            "file": "/grid/creating-a-grid.md",
+                            "slug": "/creating-a-grid"
+                        },
+                        {
+                            "id": 14,
+                            "title": "Introduction To Grid",
+                            "file": "/grid/introduction-to-grid.md",
+                            "slug": "/introduction-to-grid"
+                        },
+                        {
+                            "id": 15,
+                            "title": "Positioning Grid Elements",
+                            "file": "/grid/positioning-grid-elements.md",
+                            "slug": "/positioning-grid-elements"
+                        },
+                        {
+                            "id": 16,
+                            "title": "Project Admin Dashboard",
+                            "file": "/grid/project-admin-dashboard.md",
+                            "slug": "/project-admin-dashboard"
+                        },
+                        {
+                            "id": 17,
+                            "title": "Using Flexbox and Grid",
+                            "file": "/grid/using-flexbox-and-grid.md",
+                            "slug": "/using-flexbox-and-grid"
+                        }
+                    ]
+                },
+                {
+                    "id": 18,
+                    "title": "Intermediate CSS Concepts",
+                    "slug": "/intermediate-css-concepts",
+                    "sections": [
+                        {
+                            "id": 19,
+                            "title": "Advanced Selectors",
+                            "file": "/intermediate-css-concepts/advanced-selectors.md",
+                            "slug": "/advanced-selectors"
+                        },
+                        {
+                            "id": 20,
+                            "title": "Browser Compatibility",
+                            "file": "/intermediate-css-concepts/browser-compatibility.md",
+                            "slug": "/browser-compatibility"
+                        },
+                        {
+                            "id": 21,
+                            "title": "CSS Functions",
+                            "file": "/intermediate-css-concepts/css-functions.md",
+                            "slug": "/css-functions"
+                        },
+                        {
+                            "id": 22,
+                            "title": "CSS Units",
+                            "file": "/intermediate-css-concepts/css-units.md",
+                            "slug": "/css-units"
+                        },
+                        {
+                            "id": 23,
+                            "title": "Custom Properties",
+                            "file": "/intermediate-css-concepts/custom-properties.md",
+                            "slug": "/custom-properties"
+                        },
+                        {
+                            "id": 24,
+                            "title": "Default Styles",
+                            "file": "/intermediate-css-concepts/default-styles.md",
+                            "slug": "/default-styles"
+                        },
+                        {
+                            "id": 25,
+                            "title": "Frameworks and Preprocessors",
+                            "file": "/intermediate-css-concepts/frameworks-and-preprocessors.md",
+                            "slug": "/frameworks-and-preprocessors"
+                        },
+                        {
+                            "id": 26,
+                            "title": "More CSS Properties",
+                            "file": "/intermediate-css-concepts/more-css-properties.md",
+                            "slug": "/more-css-properties"
+                        },
+                        {
+                            "id": 27,
+                            "title": "More Text Styles",
+                            "file": "/intermediate-css-concepts/more-text-styles.md",
+                            "slug": "/more-text-styles"
+                        },
+                        {
+                            "id": 28,
+                            "title": "Positioning",
+                            "file": "/intermediate-css-concepts/positioning.md",
+                            "slug": "/positioning"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 29,
+            "title": "Advanced HTML CSS",
+            "format": "md",
+            "cover": "advanced-html-css.png",
+            "slug": "/advanced-html-css",
+            "lessons": [
+                {
+                    "id": 30,
+                    "title": "Responsive Design",
+                    "slug": "/responsive-design",
+                    "sections": [
+                        {
+                            "id": 31,
+                            "title": "Introduction To Responsive Design",
+                            "file": "/responsive-design/introduction-to-responsive-design.md",
+                            "slug": "/introduction-to-responsive-design"
+                        },
+                        {
+                            "id": 32,
+                            "title": "Media Queries",
+                            "file": "/responsive-design/media-queries.md",
+                            "slug": "/media-queries"
+                        },
+                        {
+                            "id": 33,
+                            "title": "Natural Responsiveness",
+                            "file": "/responsive-design/natural-responsiveness.md",
+                            "slug": "/natural-responsiveness"
+                        },
+                        {
+                            "id": 34,
+                            "title": "Project Personal Portfolio",
+                            "file": "/responsive-design/project-personal-portfolio.md",
+                            "slug": "/project-personal-portfolio"
+                        },
+                        {
+                            "id": 35,
+                            "title": "Responsive Images",
+                            "file": "/responsive-design/responsive-images.md",
+                            "slug": "/responsive-images"
+                        }
+                    ]
+                },
+                {
+                    "id": 36,
+                    "title": "Animation",
+                    "slug": "/animation",
+                    "sections": [
+                        {
+                            "id": 37,
+                            "title": "Keyframes",
+                            "file": "/animation/keyframes.md",
+                            "slug": "/keyframes"
+                        },
+                        {
+                            "id": 38,
+                            "title": "Transforms",
+                            "file": "/animation/transforms.md",
+                            "slug": "/transforms"
+                        },
+                        {
+                            "id": 39,
+                            "title": "Transitions",
+                            "file": "/animation/transitions.md",
+                            "slug": "/transitions"
+                        }
+                    ]
+                },
+                {
+                    "id": 40,
+                    "title": "Accessibility",
+                    "slug": "/accessibility",
+                    "sections": [
+                        {
+                            "id": 41,
+                            "title": "Accessibility Auditing",
+                            "file": "/accessibility/accessibility-auditing.md",
+                            "slug": "/accessibility-auditing"
+                        },
+                        {
+                            "id": 42,
+                            "title": "Accessible Colors",
+                            "file": "/accessibility/accessible-colors.md",
+                            "slug": "/accessible-colors"
+                        },
+                        {
+                            "id": 43,
+                            "title": "Introduction To Web Accessibility",
+                            "file": "/accessibility/introduction-to-web-accessibility.md",
+                            "slug": "/introduction-to-web-accessibility"
+                        },
+                        {
+                            "id": 44,
+                            "title": "Keyboard Navigation",
+                            "file": "/accessibility/keyboard-navigation.md",
+                            "slug": "/keyboard-navigation"
+                        },
+                        {
+                            "id": 45,
+                            "title": "Meaningful Text",
+                            "file": "/accessibility/meaningful-text.md",
+                            "slug": "/meaningful-text"
+                        },
+                        {
+                            "id": 46,
+                            "title": "Semantic HTML",
+                            "file": "/accessibility/semantic-html.md",
+                            "slug": "/semantic-html"
+                        },
+                        {
+                            "id": 47,
+                            "title": "The Web Content Accessibility Guidelines Wcag",
+                            "file": "/accessibility/the-web-content-accessibility-guidelines-wcag.md",
+                            "slug": "/the-web-content-accessibility-guidelines-wcag"
+                        },
+                        {
+                            "id": 48,
+                            "title": "Wai Aria",
+                            "file": "/accessibility/wai-aria.md",
+                            "slug": "/wai-aria"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 49,
+            "title": "Nodejs",
+            "format": "md",
+            "cover": "nodejs.png",
+            "slug": "/nodejs",
+            "lessons": [
+                {
+                    "id": 50,
+                    "title": "MongoDB",
+                    "slug": "/mongodb",
+                    "sections": [
+                        {
+                            "id": 51,
+                            "title": "Intro To MongoDB",
+                            "file": "/mongodb/intro-to-mongodb.md",
+                            "slug": "/intro-to-mongodb"
+                        }
+                    ]
+                },
+                {
+                    "id": 52,
+                    "title": "Introduction To Nodejs",
+                    "slug": "/introduction-to-nodejs",
+                    "sections": [
+                        {
+                            "id": 53,
+                            "title": "Debugging Node",
+                            "file": "/introduction-to-nodejs/debugging-node.md",
+                            "slug": "/debugging-node"
+                        },
+                        {
+                            "id": 54,
+                            "title": "Getting Started",
+                            "file": "/introduction-to-nodejs/getting-started.md",
+                            "slug": "/getting-started"
+                        },
+                        {
+                            "id": 55,
+                            "title": "Introduction What Is Nodejs",
+                            "file": "/introduction-to-nodejs/introduction-what-is-nodejs.md",
+                            "slug": "/introduction-what-is-nodejs"
+                        },
+                        {
+                            "id": 56,
+                            "title": "Project Basic Informational Site",
+                            "file": "/introduction-to-nodejs/project-basic-informational-site.md",
+                            "slug": "/project-basic-informational-site"
+                        }
+                    ]
+                },
+                {
+                    "id": 57,
+                    "title": "Express and Mongoose",
+                    "slug": "/express-and-mongoose",
+                    "sections": [
+                        {
+                            "id": 58,
+                            "title": "Deployment",
+                            "file": "/express-and-mongoose/deployment.md",
+                            "slug": "/deployment"
+                        },
+                        {
+                            "id": 59,
+                            "title": "Express 101",
+                            "file": "/express-and-mongoose/express-101.md",
+                            "slug": "/express-101"
+                        },
+                        {
+                            "id": 60,
+                            "title": "Express 102 Crud and MVC",
+                            "file": "/express-and-mongoose/express-102-crud-and-mvc.md",
+                            "slug": "/express-102-crud-and-mvc"
+                        },
+                        {
+                            "id": 61,
+                            "title": "Express 103 Routes and Controllers",
+                            "file": "/express-and-mongoose/express-103-routes-and-controllers.md",
+                            "slug": "/express-103-routes-and-controllers"
+                        },
+                        {
+                            "id": 62,
+                            "title": "Express 104 View Templates",
+                            "file": "/express-and-mongoose/express-104-view-templates.md",
+                            "slug": "/express-104-view-templates"
+                        },
+                        {
+                            "id": 63,
+                            "title": "Introduction To Express",
+                            "file": "/express-and-mongoose/introduction-to-express.md",
+                            "slug": "/introduction-to-express"
+                        },
+                        {
+                            "id": 64,
+                            "title": "Project Express 105 Forms and Deployment",
+                            "file": "/express-and-mongoose/project-express-105-forms-and-deployment.md",
+                            "slug": "/project-express-105-forms-and-deployment"
+                        },
+                        {
+                            "id": 65,
+                            "title": "Project Inventory Application",
+                            "file": "/express-and-mongoose/project-inventory-application.md",
+                            "slug": "/project-inventory-application"
+                        },
+                        {
+                            "id": 66,
+                            "title": "Project Mini Message Board",
+                            "file": "/express-and-mongoose/project-mini-message-board.md",
+                            "slug": "/project-mini-message-board"
+                        }
+                    ]
+                },
+                {
+                    "id": 67,
+                    "title": "Testing Express",
+                    "slug": "/testing-express",
+                    "sections": [
+                        {
+                            "id": 68,
+                            "title": "Testing Database Operations",
+                            "file": "/testing-express/testing-database-operations.md",
+                            "slug": "/testing-database-operations"
+                        },
+                        {
+                            "id": 69,
+                            "title": "Testing Routes and Controllers",
+                            "file": "/testing-express/testing-routes-and-controllers.md",
+                            "slug": "/testing-routes-and-controllers"
+                        }
+                    ]
+                },
+                {
+                    "id": 70,
+                    "title": "Authentication",
+                    "slug": "/authentication",
+                    "sections": [
+                        {
+                            "id": 71,
+                            "title": "Authentication Basics",
+                            "file": "/authentication/authentication-basics.md",
+                            "slug": "/authentication-basics"
+                        },
+                        {
+                            "id": 72,
+                            "title": "Project Members Only",
+                            "file": "/authentication/project-members-only.md",
+                            "slug": "/project-members-only"
+                        },
+                        {
+                            "id": 73,
+                            "title": "Security Configuration",
+                            "file": "/authentication/security-configuration.md",
+                            "slug": "/security-configuration"
+                        }
+                    ]
+                },
+                {
+                    "id": 74,
+                    "title": "Final Project",
+                    "slug": "/final-project",
+                    "sections": [
+                        {
+                            "id": 75,
+                            "title": "Conclusion",
+                            "file": "/final-project/conclusion.md",
+                            "slug": "/conclusion"
+                        },
+                        {
+                            "id": 76,
+                            "title": "Project Odin Book",
+                            "file": "/final-project/project-odin-book.md",
+                            "slug": "/project-odin-book"
+                        }
+                    ]
+                },
+                {
+                    "id": 77,
+                    "title": "APIs",
+                    "slug": "/apis",
+                    "sections": [
+                        {
+                            "id": 78,
+                            "title": "API Basics",
+                            "file": "/apis/api-basics.md",
+                            "slug": "/api-basics"
+                        },
+                        {
+                            "id": 79,
+                            "title": "API Security",
+                            "file": "/apis/api-security.md",
+                            "slug": "/api-security"
+                        },
+                        {
+                            "id": 80,
+                            "title": "Project Blog API",
+                            "file": "/apis/project-blog-api.md",
+                            "slug": "/project-blog-api"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 81,
+            "title": "The Back End",
+            "format": "md",
+            "cover": "the-back-end.png",
+            "slug": "/the-back-end",
+            "lessons": []
+        },
+        {
+            "id": 82,
+            "title": "Git",
+            "format": "md",
+            "cover": "git.png",
+            "slug": "/git",
+            "lessons": [
+                {
+                    "id": 83,
+                    "title": "Foundations Git",
+                    "slug": "/foundations-git",
+                    "sections": [
+                        {
+                            "id": 84,
+                            "title": "Commit Messages",
+                            "file": "/foundations-git/commit-messages.md",
+                            "slug": "/commit-messages"
+                        },
+                        {
+                            "id": 85,
+                            "title": "Git Basics",
+                            "file": "/foundations-git/git-basics.md",
+                            "slug": "/git-basics"
+                        },
+                        {
+                            "id": 86,
+                            "title": "Introduction To Git",
+                            "file": "/foundations-git/introduction-to-git.md",
+                            "slug": "/introduction-to-git"
+                        }
+                    ]
+                },
+                {
+                    "id": 87,
+                    "title": "Intermediate Git",
+                    "slug": "/intermediate-git",
+                    "sections": [
+                        {
+                            "id": 88,
+                            "title": "A Deeper Look At Git",
+                            "file": "/intermediate-git/a-deeper-look-at-git.md",
+                            "slug": "/a-deeper-look-at-git"
+                        },
+                        {
+                            "id": 89,
+                            "title": "Using Git In The Real World",
+                            "file": "/intermediate-git/using-git-in-the-real-world.md",
+                            "slug": "/using-git-in-the-real-world"
+                        },
+                        {
+                            "id": 90,
+                            "title": "Working With Remotes",
+                            "file": "/intermediate-git/working-with-remotes.md",
+                            "slug": "/working-with-remotes"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 91,
+            "title": "Databases",
+            "format": "md",
+            "cover": "databases.png",
+            "slug": "/databases",
+            "lessons": [
+                {
+                    "id": 92,
+                    "title": "Databases",
+                    "slug": "/databases",
+                    "sections": [
+                        {
+                            "id": 93,
+                            "title": "Databases and Sql",
+                            "file": "/databases/databases-and-sql.md",
+                            "slug": "/databases-and-sql"
+                        },
+                        {
+                            "id": 94,
+                            "title": "Databases",
+                            "file": "/databases/databases.md",
+                            "slug": "/databases"
+                        },
+                        {
+                            "id": 95,
+                            "title": "Project Sql Zoo",
+                            "file": "/databases/project-sql-zoo.md",
+                            "slug": "/project-sql-zoo"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 96,
+            "title": "Getting Hired",
+            "format": "md",
+            "cover": "getting-hired.png",
+            "slug": "/getting-hired",
+            "lessons": [
+                {
+                    "id": 97,
+                    "title": "Applying and Interviewing",
+                    "slug": "/applying-and-interviewing",
+                    "sections": [
+                        {
+                            "id": 98,
+                            "title": "Applying",
+                            "file": "/applying-and-interviewing/applying.md",
+                            "slug": "/applying"
+                        },
+                        {
+                            "id": 99,
+                            "title": "Collect Leads",
+                            "file": "/applying-and-interviewing/collect-leads.md",
+                            "slug": "/collect-leads"
+                        },
+                        {
+                            "id": 100,
+                            "title": "Conclusion",
+                            "file": "/applying-and-interviewing/conclusion.md",
+                            "slug": "/conclusion"
+                        },
+                        {
+                            "id": 101,
+                            "title": "Handling An Offer",
+                            "file": "/applying-and-interviewing/handling-an-offer.md",
+                            "slug": "/handling-an-offer"
+                        },
+                        {
+                            "id": 102,
+                            "title": "Preparing To Interview and Interviewing",
+                            "file": "/applying-and-interviewing/preparing-to-interview-and-interviewing.md",
+                            "slug": "/preparing-to-interview-and-interviewing"
+                        },
+                        {
+                            "id": 103,
+                            "title": "Project Resume",
+                            "file": "/applying-and-interviewing/project-resume.md",
+                            "slug": "/project-resume"
+                        },
+                        {
+                            "id": 104,
+                            "title": "Qualify Leads",
+                            "file": "/applying-and-interviewing/qualify-leads.md",
+                            "slug": "/qualify-leads"
+                        }
+                    ]
+                },
+                {
+                    "id": 105,
+                    "title": "Preparing For Job Search",
+                    "slug": "/preparing-for-job-search",
+                    "sections": [
+                        {
+                            "id": 106,
+                            "title": "How This Course Will Work",
+                            "file": "/preparing-for-job-search/how-this-course-will-work.md",
+                            "slug": "/how-this-course-will-work"
+                        },
+                        {
+                            "id": 107,
+                            "title": "Professional Networking",
+                            "file": "/preparing-for-job-search/professional-networking.md",
+                            "slug": "/professional-networking"
+                        },
+                        {
+                            "id": 108,
+                            "title": "Project Portfolio",
+                            "file": "/preparing-for-job-search/project-portfolio.md",
+                            "slug": "/project-portfolio"
+                        },
+                        {
+                            "id": 109,
+                            "title": "Starts With You",
+                            "file": "/preparing-for-job-search/starts-with-you.md",
+                            "slug": "/starts-with-you"
+                        },
+                        {
+                            "id": 110,
+                            "title": "Strategy",
+                            "file": "/preparing-for-job-search/strategy.md",
+                            "slug": "/strategy"
+                        },
+                        {
+                            "id": 111,
+                            "title": "What Companies Want",
+                            "file": "/preparing-for-job-search/what-companies-want.md",
+                            "slug": "/what-companies-want"
+                        },
+                        {
+                            "id": 112,
+                            "title": "What You Can Do To Prepare",
+                            "file": "/preparing-for-job-search/what-you-can-do-to-prepare.md",
+                            "slug": "/what-you-can-do-to-prepare"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 113,
+            "title": "Foundations",
+            "format": "md",
+            "cover": "foundations.png",
+            "slug": "/foundations",
+            "lessons": [
+                {
+                    "id": 114,
+                    "title": "Introduction",
+                    "slug": "/introduction",
+                    "sections": [
+                        {
+                            "id": 115,
+                            "title": "Asking For Help",
+                            "file": "/introduction/asking-for-help.md",
+                            "slug": "/asking-for-help"
+                        },
+                        {
+                            "id": 116,
+                            "title": "How This Course Will Work",
+                            "file": "/introduction/how-this-course-will-work.md",
+                            "slug": "/how-this-course-will-work"
+                        },
+                        {
+                            "id": 117,
+                            "title": "Introduction To Web Development",
+                            "file": "/introduction/introduction-to-web-development.md",
+                            "slug": "/introduction-to-web-development"
+                        },
+                        {
+                            "id": 118,
+                            "title": "Join The Odin Community",
+                            "file": "/introduction/join-the-odin-community.md",
+                            "slug": "/join-the-odin-community"
+                        },
+                        {
+                            "id": 119,
+                            "title": "Motivation and Mindset",
+                            "file": "/introduction/motivation-and-mindset.md",
+                            "slug": "/motivation-and-mindset"
+                        }
+                    ]
+                },
+                {
+                    "id": 120,
+                    "title": "HTML CSS",
+                    "slug": "/html-css",
+                    "sections": []
+                },
+                {
+                    "id": 121,
+                    "title": "Tying It All Together",
+                    "slug": "/tying-it-all-together",
+                    "sections": [
+                        {
+                            "id": 122,
+                            "title": "Conclusion",
+                            "file": "/tying-it-all-together/conclusion.md",
+                            "slug": "/conclusion"
+                        }
+                    ]
+                },
+                {
+                    "id": 123,
+                    "title": "Installations",
+                    "slug": "/installations",
+                    "sections": [
+                        {
+                            "id": 124,
+                            "title": "Command Line Basics",
+                            "file": "/installations/command-line-basics.md",
+                            "slug": "/command-line-basics"
+                        },
+                        {
+                            "id": 125,
+                            "title": "Computer Basics",
+                            "file": "/installations/computer-basics.md",
+                            "slug": "/computer-basics"
+                        },
+                        {
+                            "id": 126,
+                            "title": "How Does The Web Work",
+                            "file": "/installations/how-does-the-web-work.md",
+                            "slug": "/how-does-the-web-work"
+                        },
+                        {
+                            "id": 127,
+                            "title": "Installation Overview",
+                            "file": "/installations/installation-overview.md",
+                            "slug": "/installation-overview"
+                        },
+                        {
+                            "id": 128,
+                            "title": "Installations",
+                            "file": "/installations/installations.md",
+                            "slug": "/installations"
+                        },
+                        {
+                            "id": 129,
+                            "title": "Setting Up Git",
+                            "file": "/installations/setting-up-git.md",
+                            "slug": "/setting-up-git"
+                        },
+                        {
+                            "id": 130,
+                            "title": "Text Editors",
+                            "file": "/installations/text-editors.md",
+                            "slug": "/text-editors"
+                        }
+                    ]
+                },
+                {
+                    "id": 131,
+                    "title": "Javascript Basics",
+                    "slug": "/javascript-basics",
+                    "sections": [
+                        {
+                            "id": 132,
+                            "title": "Clean Code",
+                            "file": "/javascript-basics/clean-code.md",
+                            "slug": "/clean-code"
+                        },
+                        {
+                            "id": 133,
+                            "title": "Dom Manipulation and Events",
+                            "file": "/javascript-basics/dom-manipulation-and-events.md",
+                            "slug": "/dom-manipulation-and-events"
+                        },
+                        {
+                            "id": 134,
+                            "title": "Fundamentals 1",
+                            "file": "/javascript-basics/fundamentals-1.md",
+                            "slug": "/fundamentals-1"
+                        },
+                        {
+                            "id": 135,
+                            "title": "Fundamentals 2",
+                            "file": "/javascript-basics/fundamentals-2.md",
+                            "slug": "/fundamentals-2"
+                        },
+                        {
+                            "id": 136,
+                            "title": "Fundamentals 3",
+                            "file": "/javascript-basics/fundamentals-3.md",
+                            "slug": "/fundamentals-3"
+                        },
+                        {
+                            "id": 137,
+                            "title": "Fundamentals 4",
+                            "file": "/javascript-basics/fundamentals-4.md",
+                            "slug": "/fundamentals-4"
+                        },
+                        {
+                            "id": 138,
+                            "title": "Fundamentals 5",
+                            "file": "/javascript-basics/fundamentals-5.md",
+                            "slug": "/fundamentals-5"
+                        },
+                        {
+                            "id": 139,
+                            "title": "Installing Nodejs",
+                            "file": "/javascript-basics/installing-nodejs.md",
+                            "slug": "/installing-nodejs"
+                        },
+                        {
+                            "id": 140,
+                            "title": "Javascript Developer Tools",
+                            "file": "/javascript-basics/javascript-developer-tools.md",
+                            "slug": "/javascript-developer-tools"
+                        },
+                        {
+                            "id": 141,
+                            "title": "Problem Solving",
+                            "file": "/javascript-basics/problem-solving.md",
+                            "slug": "/problem-solving"
+                        },
+                        {
+                            "id": 142,
+                            "title": "Project Calculator",
+                            "file": "/javascript-basics/project-calculator.md",
+                            "slug": "/project-calculator"
+                        },
+                        {
+                            "id": 143,
+                            "title": "Project Etch A Sketch",
+                            "file": "/javascript-basics/project-etch-a-sketch.md",
+                            "slug": "/project-etch-a-sketch"
+                        },
+                        {
+                            "id": 144,
+                            "title": "Project Rock Paper Scissors",
+                            "file": "/javascript-basics/project-rock-paper-scissors.md",
+                            "slug": "/project-rock-paper-scissors"
+                        },
+                        {
+                            "id": 145,
+                            "title": "Revisiting Rock Paper Scissors",
+                            "file": "/javascript-basics/revisiting-rock-paper-scissors.md",
+                            "slug": "/revisiting-rock-paper-scissors"
+                        },
+                        {
+                            "id": 146,
+                            "title": "Understanding Errors",
+                            "file": "/javascript-basics/understanding-errors.md",
+                            "slug": "/understanding-errors"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 147,
+            "title": "Javascript",
+            "format": "md",
+            "cover": "javascript.png",
+            "slug": "/javascript",
+            "lessons": [
+                {
+                    "id": 148,
+                    "title": "Introduction",
+                    "slug": "/introduction",
+                    "sections": [
+                        {
+                            "id": 149,
+                            "title": "A Quick Review",
+                            "file": "/introduction/a-quick-review.md",
+                            "slug": "/a-quick-review"
+                        },
+                        {
+                            "id": 150,
+                            "title": "How This Course Will Work",
+                            "file": "/introduction/how-this-course-will-work.md",
+                            "slug": "/how-this-course-will-work"
+                        }
+                    ]
+                },
+                {
+                    "id": 151,
+                    "title": "Javascript In The Real World",
+                    "slug": "/javascript-in-the-real-world",
+                    "sections": [
+                        {
+                            "id": 152,
+                            "title": "Dynamic User Interface Interactions",
+                            "file": "/javascript-in-the-real-world/dynamic-user-interface-interactions.md",
+                            "slug": "/dynamic-user-interface-interactions"
+                        },
+                        {
+                            "id": 153,
+                            "title": "Form Validation With Javascript",
+                            "file": "/javascript-in-the-real-world/form-validation-with-javascript.md",
+                            "slug": "/form-validation-with-javascript"
+                        },
+                        {
+                            "id": 154,
+                            "title": "Linting",
+                            "file": "/javascript-in-the-real-world/linting.md",
+                            "slug": "/linting"
+                        },
+                        {
+                            "id": 155,
+                            "title": "What Is Es6",
+                            "file": "/javascript-in-the-real-world/what-is-es6.md",
+                            "slug": "/what-is-es6"
+                        }
+                    ]
+                },
+                {
+                    "id": 156,
+                    "title": "Computer Science",
+                    "slug": "/computer-science",
+                    "sections": [
+                        {
+                            "id": 157,
+                            "title": "A Very Brief Intro To Cs",
+                            "file": "/computer-science/a-very-brief-intro-to-cs.md",
+                            "slug": "/a-very-brief-intro-to-cs"
+                        },
+                        {
+                            "id": 158,
+                            "title": "Common Data Structures Algorithms",
+                            "file": "/computer-science/common-data-structures-algorithms.md",
+                            "slug": "/common-data-structures-algorithms"
+                        },
+                        {
+                            "id": 159,
+                            "title": "Project Binary Search Trees",
+                            "file": "/computer-science/project-binary-search-trees.md",
+                            "slug": "/project-binary-search-trees"
+                        },
+                        {
+                            "id": 160,
+                            "title": "Project Knights Travails",
+                            "file": "/computer-science/project-knights-travails.md",
+                            "slug": "/project-knights-travails"
+                        },
+                        {
+                            "id": 161,
+                            "title": "Project Linked Lists",
+                            "file": "/computer-science/project-linked-lists.md",
+                            "slug": "/project-linked-lists"
+                        },
+                        {
+                            "id": 162,
+                            "title": "Project Recursion",
+                            "file": "/computer-science/project-recursion.md",
+                            "slug": "/project-recursion"
+                        },
+                        {
+                            "id": 163,
+                            "title": "Recursive Methods",
+                            "file": "/computer-science/recursive-methods.md",
+                            "slug": "/recursive-methods"
+                        },
+                        {
+                            "id": 164,
+                            "title": "Space Complexity",
+                            "file": "/computer-science/space-complexity.md",
+                            "slug": "/space-complexity"
+                        },
+                        {
+                            "id": 165,
+                            "title": "Time Complexity",
+                            "file": "/computer-science/time-complexity.md",
+                            "slug": "/time-complexity"
+                        }
+                    ]
+                },
+                {
+                    "id": 166,
+                    "title": "Testing Javascript",
+                    "slug": "/testing-javascript",
+                    "sections": [
+                        {
+                            "id": 167,
+                            "title": "More Testing",
+                            "file": "/testing-javascript/more-testing.md",
+                            "slug": "/more-testing"
+                        },
+                        {
+                            "id": 168,
+                            "title": "Project Battleship",
+                            "file": "/testing-javascript/project-battleship.md",
+                            "slug": "/project-battleship"
+                        },
+                        {
+                            "id": 169,
+                            "title": "Project Testing Practice",
+                            "file": "/testing-javascript/project-testing-practice.md",
+                            "slug": "/project-testing-practice"
+                        },
+                        {
+                            "id": 170,
+                            "title": "Testing Basics",
+                            "file": "/testing-javascript/testing-basics.md",
+                            "slug": "/testing-basics"
+                        }
+                    ]
+                },
+                {
+                    "id": 171,
+                    "title": "Organizing Your Javascript Code",
+                    "slug": "/organizing-your-javascript-code",
+                    "sections": [
+                        {
+                            "id": 172,
+                            "title": "Classes",
+                            "file": "/organizing-your-javascript-code/classes.md",
+                            "slug": "/classes"
+                        },
+                        {
+                            "id": 173,
+                            "title": "Es6 Modules",
+                            "file": "/organizing-your-javascript-code/es6-modules.md",
+                            "slug": "/es6-modules"
+                        },
+                        {
+                            "id": 174,
+                            "title": "Factory Functions and Module Pattern",
+                            "file": "/organizing-your-javascript-code/factory-functions-and-module-pattern.md",
+                            "slug": "/factory-functions-and-module-pattern"
+                        },
+                        {
+                            "id": 175,
+                            "title": "Objects and Object Constructors",
+                            "file": "/organizing-your-javascript-code/objects-and-object-constructors.md",
+                            "slug": "/objects-and-object-constructors"
+                        },
+                        {
+                            "id": 176,
+                            "title": "Oop Principles",
+                            "file": "/organizing-your-javascript-code/oop-principles.md",
+                            "slug": "/oop-principles"
+                        },
+                        {
+                            "id": 177,
+                            "title": "Organizing Your Javascript Code Introduction",
+                            "file": "/organizing-your-javascript-code/organizing-your-javascript-code-introduction.md",
+                            "slug": "/organizing-your-javascript-code-introduction"
+                        },
+                        {
+                            "id": 178,
+                            "title": "Project Library",
+                            "file": "/organizing-your-javascript-code/project-library.md",
+                            "slug": "/project-library"
+                        },
+                        {
+                            "id": 179,
+                            "title": "Project Restaurant Page",
+                            "file": "/organizing-your-javascript-code/project-restaurant-page.md",
+                            "slug": "/project-restaurant-page"
+                        },
+                        {
+                            "id": 180,
+                            "title": "Project Tic Tac Toe",
+                            "file": "/organizing-your-javascript-code/project-tic-tac-toe.md",
+                            "slug": "/project-tic-tac-toe"
+                        },
+                        {
+                            "id": 181,
+                            "title": "Project Todo List",
+                            "file": "/organizing-your-javascript-code/project-todo-list.md",
+                            "slug": "/project-todo-list"
+                        },
+                        {
+                            "id": 182,
+                            "title": "Webpack",
+                            "file": "/organizing-your-javascript-code/webpack.md",
+                            "slug": "/webpack"
+                        }
+                    ]
+                },
+                {
+                    "id": 183,
+                    "title": "Finishing Up With Javascript",
+                    "slug": "/finishing-up-with-javascript",
+                    "sections": [
+                        {
+                            "id": 184,
+                            "title": "Conclusion",
+                            "file": "/finishing-up-with-javascript/conclusion.md",
+                            "slug": "/conclusion"
+                        }
+                    ]
+                },
+                {
+                    "id": 185,
+                    "title": "Asynchronous Javascript and APIs",
+                    "slug": "/asynchronous-javascript-and-apis",
+                    "sections": [
+                        {
+                            "id": 186,
+                            "title": "Async and Await",
+                            "file": "/asynchronous-javascript-and-apis/async-and-await.md",
+                            "slug": "/async-and-await"
+                        },
+                        {
+                            "id": 187,
+                            "title": "Asynchronous Code",
+                            "file": "/asynchronous-javascript-and-apis/asynchronous-code.md",
+                            "slug": "/asynchronous-code"
+                        },
+                        {
+                            "id": 188,
+                            "title": "Json",
+                            "file": "/asynchronous-javascript-and-apis/json.md",
+                            "slug": "/json"
+                        },
+                        {
+                            "id": 189,
+                            "title": "Project Weather App",
+                            "file": "/asynchronous-javascript-and-apis/project-weather-app.md",
+                            "slug": "/project-weather-app"
+                        },
+                        {
+                            "id": 190,
+                            "title": "Working With APIs",
+                            "file": "/asynchronous-javascript-and-apis/working-with-apis.md",
+                            "slug": "/working-with-apis"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 191,
+            "title": "React",
+            "format": "md",
+            "cover": "react.png",
+            "slug": "/react",
+            "lessons": [
+                {
+                    "id": 192,
+                    "title": "Introduction",
+                    "slug": "/introduction",
+                    "sections": [
+                        {
+                            "id": 193,
+                            "title": "How This Course Will Work",
+                            "file": "/introduction/how-this-course-will-work.md",
+                            "slug": "/how-this-course-will-work"
+                        },
+                        {
+                            "id": 194,
+                            "title": "Introduction To React",
+                            "file": "/introduction/introduction-to-react.md",
+                            "slug": "/introduction-to-react"
+                        },
+                        {
+                            "id": 195,
+                            "title": "Setting Up A React Environment",
+                            "file": "/introduction/setting-up-a-react-environment.md",
+                            "slug": "/setting-up-a-react-environment"
+                        }
+                    ]
+                },
+                {
+                    "id": 196,
+                    "title": "Getting Started With React",
+                    "slug": "/getting-started-with-react",
+                    "sections": [
+                        {
+                            "id": 197,
+                            "title": "Keys In React",
+                            "file": "/getting-started-with-react/keys-in-react.md",
+                            "slug": "/keys-in-react"
+                        },
+                        {
+                            "id": 198,
+                            "title": "Passing Data Between Components",
+                            "file": "/getting-started-with-react/passing-data-between-components.md",
+                            "slug": "/passing-data-between-components"
+                        },
+                        {
+                            "id": 199,
+                            "title": "React Components",
+                            "file": "/getting-started-with-react/react-components.md",
+                            "slug": "/react-components"
+                        },
+                        {
+                            "id": 200,
+                            "title": "Rendering Techniques",
+                            "file": "/getting-started-with-react/rendering-techniques.md",
+                            "slug": "/rendering-techniques"
+                        },
+                        {
+                            "id": 201,
+                            "title": "What Is Jsx",
+                            "file": "/getting-started-with-react/what-is-jsx.md",
+                            "slug": "/what-is-jsx"
+                        }
+                    ]
+                },
+                {
+                    "id": 202,
+                    "title": "React and The Backend",
+                    "slug": "/react-and-the-backend",
+                    "sections": [
+                        {
+                            "id": 203,
+                            "title": "Project Messaging App",
+                            "file": "/react-and-the-backend/project-messaging-app.md",
+                            "slug": "/project-messaging-app"
+                        },
+                        {
+                            "id": 204,
+                            "title": "Project Wheres Waldo A Photo Tagging App",
+                            "file": "/react-and-the-backend/project-wheres-waldo-a-photo-tagging-app.md",
+                            "slug": "/project-wheres-waldo-a-photo-tagging-app"
+                        },
+                        {
+                            "id": 205,
+                            "title": "Using Ruby On Rails For Your Backend",
+                            "file": "/react-and-the-backend/using-ruby-on-rails-for-your-backend.md",
+                            "slug": "/using-ruby-on-rails-for-your-backend"
+                        }
+                    ]
+                },
+                {
+                    "id": 206,
+                    "title": "Class Components",
+                    "slug": "/class-components",
+                    "sections": [
+                        {
+                            "id": 207,
+                            "title": "Class Based Components",
+                            "file": "/class-components/class-based-components.md",
+                            "slug": "/class-based-components"
+                        },
+                        {
+                            "id": 208,
+                            "title": "Component Lifecycle Methods",
+                            "file": "/class-components/component-lifecycle-methods.md",
+                            "slug": "/component-lifecycle-methods"
+                        }
+                    ]
+                },
+                {
+                    "id": 209,
+                    "title": "React Testing",
+                    "slug": "/react-testing",
+                    "sections": [
+                        {
+                            "id": 210,
+                            "title": "Introduction To React Testing",
+                            "file": "/react-testing/introduction-to-react-testing.md",
+                            "slug": "/introduction-to-react-testing"
+                        },
+                        {
+                            "id": 211,
+                            "title": "Mocking Callbacks and Components",
+                            "file": "/react-testing/mocking-callbacks-and-components.md",
+                            "slug": "/mocking-callbacks-and-components"
+                        }
+                    ]
+                },
+                {
+                    "id": 212,
+                    "title": "States and Effects",
+                    "slug": "/states-and-effects",
+                    "sections": [
+                        {
+                            "id": 213,
+                            "title": "How To Deal With Side Effects",
+                            "file": "/states-and-effects/how-to-deal-with-side-effects.md",
+                            "slug": "/how-to-deal-with-side-effects"
+                        },
+                        {
+                            "id": 214,
+                            "title": "Introduction To State",
+                            "file": "/states-and-effects/introduction-to-state.md",
+                            "slug": "/introduction-to-state"
+                        },
+                        {
+                            "id": 215,
+                            "title": "More On State",
+                            "file": "/states-and-effects/more-on-state.md",
+                            "slug": "/more-on-state"
+                        },
+                        {
+                            "id": 216,
+                            "title": "Project Cv Application",
+                            "file": "/states-and-effects/project-cv-application.md",
+                            "slug": "/project-cv-application"
+                        },
+                        {
+                            "id": 217,
+                            "title": "Project Memory Card",
+                            "file": "/states-and-effects/project-memory-card.md",
+                            "slug": "/project-memory-card"
+                        }
+                    ]
+                },
+                {
+                    "id": 218,
+                    "title": "The React Ecosystem",
+                    "slug": "/the-react-ecosystem",
+                    "sections": [
+                        {
+                            "id": 219,
+                            "title": "Fetching Data In React",
+                            "file": "/the-react-ecosystem/fetching-data-in-react.md",
+                            "slug": "/fetching-data-in-react"
+                        },
+                        {
+                            "id": 220,
+                            "title": "Project Shopping Cart",
+                            "file": "/the-react-ecosystem/project-shopping-cart.md",
+                            "slug": "/project-shopping-cart"
+                        },
+                        {
+                            "id": 221,
+                            "title": "React Router",
+                            "file": "/the-react-ecosystem/react-router.md",
+                            "slug": "/react-router"
+                        },
+                        {
+                            "id": 222,
+                            "title": "Styling React Applications",
+                            "file": "/the-react-ecosystem/styling-react-applications.md",
+                            "slug": "/styling-react-applications"
+                        },
+                        {
+                            "id": 223,
+                            "title": "Type Checking With Proptypes",
+                            "file": "/the-react-ecosystem/type-checking-with-proptypes.md",
+                            "slug": "/type-checking-with-proptypes"
+                        }
+                    ]
+                },
+                {
+                    "id": 224,
+                    "title": "More React Concepts",
+                    "slug": "/more-react-concepts",
+                    "sections": [
+                        {
+                            "id": 225,
+                            "title": "Managing State With Context API",
+                            "file": "/more-react-concepts/managing-state-with-context-api.md",
+                            "slug": "/managing-state-with-context-api"
+                        },
+                        {
+                            "id": 226,
+                            "title": "Reducing State",
+                            "file": "/more-react-concepts/reducing-state.md",
+                            "slug": "/reducing-state"
+                        },
+                        {
+                            "id": 227,
+                            "title": "Refs and Memoization",
+                            "file": "/more-react-concepts/refs-and-memoization.md",
+                            "slug": "/refs-and-memoization"
+                        }
+                    ]
+                },
+                {
+                    "id": 228,
+                    "title": "Conclusion",
+                    "slug": "/conclusion",
+                    "sections": [
+                        {
+                            "id": 229,
+                            "title": "Conclusion Full Stack Javascript",
+                            "file": "/conclusion/conclusion-full-stack-javascript.md",
+                            "slug": "/conclusion-full-stack-javascript"
+                        },
+                        {
+                            "id": 230,
+                            "title": "Conclusion Ruby On Rails",
+                            "file": "/conclusion/conclusion-ruby-on-rails.md",
+                            "slug": "/conclusion-ruby-on-rails"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
