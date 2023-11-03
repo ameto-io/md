@@ -19,6 +19,8 @@ If you prefer a visual guide, there's a video version of this tutorial
 available [on the freeCodeCamp.org YouTube
 channel](https://youtu.be/KZnQ5R8Kd4I) (approximately 1 hour).
 
+<https://www.youtube.com/watch?v=KZnQ5R8Kd4I?feature=oembed>
+
 ## **1\. What We’ll Build**
 
 This tutorial serves as a comprehensive guide to building a robust Quarkus
